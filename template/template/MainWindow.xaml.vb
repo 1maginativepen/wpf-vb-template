@@ -7,5 +7,6 @@ Class MainWindow
         WindowStartupLocation = WindowStartupLocation.CenterScreen
         ' Add any initialization after the InitializeComponent() call.
 
+
     End Sub
 End Class
